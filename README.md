@@ -1,22 +1,22 @@
 # Face-and-Liveness-Detection
-In this project, we worked on Face detection and liveness refers to eye blink. Input will live vedio from pc camera.
+In this project, we worked on Face detection, and liveness refers to eye blinks. The input was live video from a PC camera.
 Here we used Fisherface and CNN models for this. Fisherface for face and CNN for eye blink detection.
-The output will be provided based on prediction of both fisherface and CNN models.
-If the face and blink detected output will be face detected and confidence also provided.
-If eye blink is not detected, it will be mentioned in output terminal else will receive no face detected.
+The output will be provided based on the prediction of both fisherface and CNN models.
+If the face and blink are detected output will be face detected and confidence also provided.
+If an eye blink is not detected, it will be mentioned in the output terminal. otherwise, no face will be detected.
 
 
 Packages:
-  Libraries for Fisherface Face Recognition Model:
-    * OpenCV
-    * NumPy
-    * scikit-learn
-    * Joblib
-  Libraries for CNN Eye Blink Detection:
-    * Torch
-    * Torchvision
-    * OpenCV
-    * NumPy
+Libraries for Fisherface Face Recognition Model:
+* OpenCV
+* NumPy
+* scikit-learn
+* Joblib
+Libraries for CNN Eye Blink Detection:
+* Torch
+* Torchvision
+* OpenCV
+* NumPy
 
 
 IDE : Anaconda(Jupyter Notebook)
