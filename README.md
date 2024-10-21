@@ -7,19 +7,20 @@ If an eye blink is not detected, it will be mentioned in the output terminal. ot
 
 
 Packages:
-Libraries for Fisherface Face Recognition Model:
-* OpenCV
-* NumPy
-* scikit-learn
-* Joblib
-Libraries for CNN Eye Blink Detection:
-* Torch
-* Torchvision
-* OpenCV
-* NumPy
+  Libraries for Fisherface Face Recognition Model:
+    * OpenCV
+    * NumPy
+    * scikit-learn
+    * Joblib
+  Libraries for CNN Eye Blink Detection:
+    * Torch
+    * Torchvision
+    * OpenCV
+    * NumPy
 
 
 IDE : Anaconda(Jupyter Notebook)
+
 
 
 Datasets:
