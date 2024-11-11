@@ -36,7 +36,7 @@ def load_dataset(data_folder_path):
 # Main code for testing
 if __name__ == '__main__':
     # Path to your test dataset folder
-    test_dataset_path = 'D:/B.Tech/datasets/realandfakeface/Test'
+    test_dataset_path = 'Test_data'
 
     # Load the test dataset
     test_images, test_labels, label_dict = load_dataset(test_dataset_path)
